@@ -5,8 +5,9 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/angelmartinez4147/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/angelmartinez4147/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/angelmartinez4147/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/angelmartinez4147/configure-ad)
+
 
 <h2>🤳Connect with me:</h2>
 
